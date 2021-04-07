@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469556911623",
+    "project_id": "music-wali-app",
+    "storage_bucket": "music-wali-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469556911623:android:b4c91023ffaf0e1c5c54a2",
+        "android_client_info": {
+          "package_name": "com.example.music_wali_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469556911623-k5cqd4uanjm1cgre37rqqiqf8gcu7b6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbW50VdYkx244E5Co78gEAb4rXY1flPvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469556911623-k5cqd4uanjm1cgre37rqqiqf8gcu7b6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
